@@ -1,0 +1,11 @@
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\bin\Debug\netcoreapp3.1\adm_centro_educativo.exe
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\bin\Debug\netcoreapp3.1\adm_centro_educativo.deps.json
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\bin\Debug\netcoreapp3.1\adm_centro_educativo.runtimeconfig.json
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\bin\Debug\netcoreapp3.1\adm_centro_educativo.runtimeconfig.dev.json
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\bin\Debug\netcoreapp3.1\adm_centro_educativo.dll
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\bin\Debug\netcoreapp3.1\adm_centro_educativo.pdb
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\obj\Debug\netcoreapp3.1\adm_centro_educativo.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\obj\Debug\netcoreapp3.1\adm_centro_educativo.AssemblyInfo.cs
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\obj\Debug\netcoreapp3.1\adm_centro_educativo.dll
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\obj\Debug\netcoreapp3.1\adm_centro_educativo.pdb
+C:\Users\alexd\source\repos\adm_centro_educativo\adm_centro_educativo\obj\Debug\netcoreapp3.1\adm_centro_educativo.csprojAssemblyReference.cache
